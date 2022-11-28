@@ -1,2 +1,2 @@
-# dizilervedigerleri
-patika.dev java101 diziler konusu ödevleri
+# Java101 Diziler ve Diğer Konuların Ödevleri patika.dev
+www.patika.dev
